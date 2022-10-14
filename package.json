@@ -1,0 +1,19 @@
+{
+  "name": "qi-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": "true",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "changeset": "changeset"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.25.0"
+  }
+}
