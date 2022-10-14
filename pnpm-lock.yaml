@@ -19,6 +19,12 @@ importers:
       '@qi-ui/core': link:../core
       '@qi-ui/ui': link:../ui
 
+  packages/shared:
+    specifiers:
+      '@qi-ui/docs': workspace:*
+    dependencies:
+      '@qi-ui/docs': link:../docs
+
   packages/ui:
     specifiers: {}
 
