@@ -1,0 +1,16 @@
+# @qi-ui/docs
+
+## 1.0.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @qi-ui/core@1.0.8
+
+## 1.0.1
+
+### Patch Changes
+
+- fix: commit
+- Updated dependencies
+  - @qi-ui/core@1.0.7
