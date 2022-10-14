@@ -1,3 +1,3 @@
 export function core() {
-  console.log("core", aha);
+  console.log("core", ahaoewr);
 }
