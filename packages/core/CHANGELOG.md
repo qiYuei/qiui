@@ -1,5 +1,11 @@
 # @qi-ui/core
 
+## 1.0.10
+
+### Patch Changes
+
+- core
+
 ## 1.0.9
 
 ### Patch Changes

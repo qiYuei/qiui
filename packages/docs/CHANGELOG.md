@@ -1,5 +1,12 @@
 # @qi-ui/docs
 
+## 1.0.4
+
+### Patch Changes
+
+- Updated dependencies
+  - @qi-ui/core@1.0.10
+
 ## 1.0.3
 
 ### Patch Changes
